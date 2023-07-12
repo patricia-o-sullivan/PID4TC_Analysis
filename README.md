@@ -3,7 +3,7 @@
 
 This repository contains the (1.) Databases of extracted features for each subject and time window, named PID4TC_FeatureDatabase; and (2.) The analysis code, named PID4TC_Analysis.
 Raw data can be found at https://zenodo.org/record/7755802 (doi: 10.5281/ZENODO.7755802).
-The associated publication in IEEE Sensors Journal can be found at link (doi).
+The associated publication in can be found at link (doi).
 
 The files within the database follow the format Sub1Features_L_2, in this case 1 denotes the subject number and 2 denotes the window size in seconds (200 frames).
 The analysis code is named PID4TC_Analysis.
